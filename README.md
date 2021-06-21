@@ -1,4 +1,4 @@
-### Hi there, I'm Rodrigo, a studant and Data Analysis developer. I'm making my possible to learn Back-End, Data Science, Machine Leaning and App Development. 
+# Hi there, I'm Rodrigo, a studant and Data Analysis developer. I'm making my possible to learn Back-End, Data Science, Machine Leaning and App Development. 
 
 ## About me
 
@@ -32,6 +32,7 @@
 
 ![Git](https://img.shields.io/badge/git-%23E34F26.svg?&style=for-the-badge&logo=git&logoColor=white)
 ![Github](https://img.shields.io/badge/github-%23323330.svg?&style=for-the-badge&logo=github&logoColor=white)
+
 ![Docker](https://img.shields.io/badge/docker%20-blue.svg?&style=for-the-badge&logo=docker&logoColor=white)
 
 ![VsCode](https://img.shields.io/badge/vscode%20-blue.svg?&style=for-the-badge&logo=visual-studio-code&logoColor=white)
