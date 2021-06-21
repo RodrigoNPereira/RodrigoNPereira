@@ -11,7 +11,8 @@
 [<img align="left" alt="rodrigonpereira | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 [<img align="left" alt="rodrigonpereira | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="rodrigonpereira | Facebook" width="22px" src="https://simpleicons.org/icons/facebook.svg" />][facebook]
-[<img align="left" alt="rodrigonpereira | Facebook" width="22px" src="https://simpleicons.org/icons/whatsapp.svg" />][whatsapp]
+[<img align="left" alt="rodrigonpereira | Whatsapp" width="22px" src="https://simpleicons.org/icons/whatsapp.svg" />][whatsapp]
+[<img align="left" alt="rodrigonpereira | Linkedin" width="22px" src="https://simpleicons.org/icons/linkedin.svg" />][linkedin]
 
 </br>
 </br>
@@ -44,6 +45,7 @@
 [twitter]: https://twitter.com/RodNPereira
 [facebook]: https://www.facebook.com/rodrigonpgame/
 [whatsapp]: https://api.whatsapp.com/send?phone=5535988322337ools
+[linkedin]: https://www.linkedin.com/in/rodrigonpereira/
  
  
 
