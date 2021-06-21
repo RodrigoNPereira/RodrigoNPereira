@@ -1,14 +1,14 @@
 ### Hi there, I'm Rodrigo, 
 
-# I'm a studant and Data Analysis developer. I'm making my possible to learn Back-End, Data Science, Machine Leaning and App Development. 
+## I'm a studant and Data Analysis developer. I'm making my possible to learn Back-End, Data Science, Machine Leaning and App Development. 
 
-## About me
+### About me
 
 - I'm the software captain of Black Bee Drones, a competition team that works with autonomous drones.
 - I'm a studant of Computarional Engineering at Federal University of Itajubá (Itajubá - MG)
 - I'm learning C, C++, Advanced Python and Python Libraries
 
-## Connect with me!
+### Connect with me!
 
 [<img align="left" alt="rodrigonpereira | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 [<img align="left" alt="rodrigonpereira | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
