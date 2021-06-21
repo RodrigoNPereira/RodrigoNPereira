@@ -1,4 +1,6 @@
-# Hi there, I'm Rodrigo, a studant and Data Analysis developer. I'm making my possible to learn Back-End, Data Science, Machine Leaning and App Development. 
+### Hi there, I'm Rodrigo, 
+
+## I'm a studant and Data Analysis developer. I'm making my possible to learn Back-End, Data Science, Machine Leaning and App Development. 
 
 ## About me
 
