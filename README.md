@@ -6,7 +6,7 @@
 
 - I'm the software captain of Black Bee Drones, a competition team that works with autonomous drones.
 - I'm a studant of Computarional Engineering at Federal University of Itajubá (Itajubá - MG)
-- I'm learning C, C++, Advanced Python and Python Libraries
+- I'm currently studying C, C++, Advanced Python and Python Libraries
 
 ### Connect with me!
 
